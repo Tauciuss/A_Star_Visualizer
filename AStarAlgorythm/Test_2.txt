@@ -1,0 +1,20 @@
+Oradea;78;12;Zerind;Sibiu
+Zerind;57;54;Oradea;Arad
+Arad;41;96;Zerind;Sibiu;Timisoara
+Sibiu;150;132;Oradea;Arad;Fragaras;Riminicu Vilcea
+Timisoara;43;184;Arad;Lugoj
+Lugoj;109;217;Timisoara;Mehadia
+Mehadia;112;259;Lugoj;Dobreta
+Dobreta;109;300;Mehadia;Craiova
+Craiova;190;315;Riminicu Vilcea;Pitesti
+Riminicu Vilcea;172;184;Sibiu;Pitesti;Craiova
+Pitesti;252;229;Riminicu Vilcea;Craiova;Bucharest
+Fragaras;240;142;Sibiu;Bucharest
+Bucharest;327;271;Fragaras;Pitesti;Giurgiu;Urziceni
+Giurgiu;302;332;Bucharest
+Urziceni;378;247;Bucharest;Vaslui;Hirsova
+Hirsova;448;247;Urziceni;Eforie
+Eforie;477;307;Hirsova
+Vaslui;427;147;Urziceni;Iasi
+Iasi;395;80;Vaslui;Neamt
+Neamt;330;50;Iasi
